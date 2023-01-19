@@ -1,0 +1,16 @@
+h1{
+    color: rgb(77, 77, 77);
+}
+label{
+    color: rgb(116, 116, 116);
+}
+
+
+
+
+:host{
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+}
+
